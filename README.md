@@ -1,3 +1,3 @@
 # hive
 use hive to process data
- --  hive -f business.hql
+ -->  hive -f business.hql
